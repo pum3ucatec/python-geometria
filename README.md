@@ -12,8 +12,12 @@ Este proyecto contiene clases para representar figuras geométricas en Python.
 
 Para ejecutar el programa, navega a la carpeta `src` y ejecuta:
 
-# MacOS
+- MacOS
 
 ```bash
 python3 src/main.py
+```
+- Windows
+```
 python src/main.py
+```
