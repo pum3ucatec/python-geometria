@@ -2,7 +2,7 @@ from geometria.geometria import Geometria
 
 class Cuadrado(Geometria):
     def __init__(self, p1, lado, borde="black", relleno=""):
-        self.p1 = p1  # Punto superior izquierdo
+        self.p1 = p1  
         self.lado = lado
         self.borde = borde
         self.relleno = relleno
