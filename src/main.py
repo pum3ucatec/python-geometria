@@ -2,19 +2,9 @@
 import tkinter as tk
 from geometria.circulo import Circulo
 from geometria.rectangulo import Rectangulo
-
-def dibujar_rectangulo(canvas, rectangulo):
-    x0 = 300
-    y0 = 100
-    x1 = x0 + rectangulo.ancho
-    y1 = y0 + rectangulo.alto
-    canvas.create_rectangle(x0, y0, x1, y1, outline="red", fill="lightcoral")
-
-def dibujar_circulo(canvas, circulo):
-    x = 100
-    y = 100
-    r = circulo.radio
-    canvas.create_oval(x - r, y - r, x + r, y + r, outline="blue", fill="lightblue")
+from geometria.cuadrado import Cuadrado
+from geometria.elipse import Elipse
+from geometria.punto import punto
 
 def main():
     # Crear la ventana principal
@@ -26,12 +16,16 @@ def main():
     canvas.pack()
 
     # Crear objetos
-    circulo = Circulo(50)
-    rectangulo = Rectangulo(150, 100)
+    circulo = Circulo(punto(100,200),20, "blue", "black")
+    rectangulo = Rectangulo(punto(300, 200), punto(350,250), "green", "red")
+    cuadrado = Cuadrado(punto(100, 50),50, "yellow", "black") 
+    elipse = Elipse(punto(300,100), 40, 30, "blue", "green")
     
     # Dibujar
-    dibujar_circulo(canvas, circulo)
-    dibujar_rectangulo(canvas, rectangulo)
+    circulo.dibujar(canvas)
+    rectangulo.dibujar(canvas)
+    cuadrado.dibujar(canvas)
+    elipse.dibujar(canvas)
 
     # Iniciar el bucle principal
     root.mainloop()
