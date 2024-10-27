@@ -1,0 +1,15 @@
+C:\Users\jose0\OneDrive\Documentos\UCATEC\Lenguaje de programacion\python-geometria\CSHARDP-GEOMETRIA\obj\Debug\net8.0-windows\CSHARDP-GEOMETRIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose0\OneDrive\Documentos\UCATEC\Lenguaje de programacion\python-geometria\CSHARDP-GEOMETRIA\obj\Debug\net8.0-windows\CSHARDP-GEOMETRIA.AssemblyInfoInputs.cache
+C:\Users\jose0\OneDrive\Documentos\UCATEC\Lenguaje de programacion\python-geometria\CSHARDP-GEOMETRIA\obj\Debug\net8.0-windows\CSHARDP-GEOMETRIA.AssemblyInfo.cs
+C:\Users\jose0\OneDrive\Documentos\UCATEC\Lenguaje de programacion\python-geometria\CSHARDP-GEOMETRIA\obj\Debug\net8.0-windows\CSHARDP-GEOMETRIA.csproj.CoreCompileInputs.cache
+C:\Users\jose0\OneDrive\Documentos\UCATEC\Lenguaje de programacion\python-geometria\CSHARDP-GEOMETRIA\obj\Debug\net8.0-windows\CSHARDP-GEOMETRIA.sourcelink.json
+C:\Users\jose0\OneDrive\Documentos\UCATEC\Lenguaje de programacion\python-geometria\CSHARDP-GEOMETRIA\bin\Debug\net8.0-windows\CSHARDP-GEOMETRIA.exe
+C:\Users\jose0\OneDrive\Documentos\UCATEC\Lenguaje de programacion\python-geometria\CSHARDP-GEOMETRIA\bin\Debug\net8.0-windows\CSHARDP-GEOMETRIA.deps.json
+C:\Users\jose0\OneDrive\Documentos\UCATEC\Lenguaje de programacion\python-geometria\CSHARDP-GEOMETRIA\bin\Debug\net8.0-windows\CSHARDP-GEOMETRIA.runtimeconfig.json
+C:\Users\jose0\OneDrive\Documentos\UCATEC\Lenguaje de programacion\python-geometria\CSHARDP-GEOMETRIA\bin\Debug\net8.0-windows\CSHARDP-GEOMETRIA.dll
+C:\Users\jose0\OneDrive\Documentos\UCATEC\Lenguaje de programacion\python-geometria\CSHARDP-GEOMETRIA\bin\Debug\net8.0-windows\CSHARDP-GEOMETRIA.pdb
+C:\Users\jose0\OneDrive\Documentos\UCATEC\Lenguaje de programacion\python-geometria\CSHARDP-GEOMETRIA\obj\Debug\net8.0-windows\CSHARDP-GEOMETRIA.dll
+C:\Users\jose0\OneDrive\Documentos\UCATEC\Lenguaje de programacion\python-geometria\CSHARDP-GEOMETRIA\obj\Debug\net8.0-windows\refint\CSHARDP-GEOMETRIA.dll
+C:\Users\jose0\OneDrive\Documentos\UCATEC\Lenguaje de programacion\python-geometria\CSHARDP-GEOMETRIA\obj\Debug\net8.0-windows\CSHARDP-GEOMETRIA.pdb
+C:\Users\jose0\OneDrive\Documentos\UCATEC\Lenguaje de programacion\python-geometria\CSHARDP-GEOMETRIA\obj\Debug\net8.0-windows\CSHARDP-GEOMETRIA.genruntimeconfig.cache
+C:\Users\jose0\OneDrive\Documentos\UCATEC\Lenguaje de programacion\python-geometria\CSHARDP-GEOMETRIA\obj\Debug\net8.0-windows\ref\CSHARDP-GEOMETRIA.dll
